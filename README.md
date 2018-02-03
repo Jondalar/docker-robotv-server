@@ -73,6 +73,9 @@ Ports in use
 | --- | --- |
 | 34892 | roboTV port for client communication (must always be connected) |
 | 6419 | VDR svdrp port |
+| 3000 | Streamdev port |
+| 8008 | vdr-live web interface port (use admin/live for login) |
+
 
 Examples
 --------
